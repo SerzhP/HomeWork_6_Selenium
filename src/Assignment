@@ -1,0 +1,20 @@
+1. Write a program which does the following:
+ The program has to contain the following:
+a. @BeforeClass
+b. @Test
+c. @AfterClass
+ Each annotation will print annotation name.
+ Change method order in code and check if something
+changed.
+
+2.
+
+ Create an int variable named x with the value 1
+ Create an int variable named y with the value 2
+ Create a test which will assert x is not equals to y
+
+3. Write a TestNG test which has 3 tests:
+ First test print the letter A
+ Second test print the letter B
+ Third test print the letter C
+
